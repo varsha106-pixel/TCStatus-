@@ -1,1 +1,1 @@
-# TCStatus-
+# TCStatus-App that allows people to register public tennis courts around them and search their availability. Once a court is added the user has the option to mark each court as "In Use" when they are using it. It informs people how many of the courts are available before they go to the site.
