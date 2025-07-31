@@ -1,8 +1,8 @@
-TCStatus:
+**TCStatus:**
 
 TCStatus is an iOS app that lets users register public tennis courts near them and check their availability in real time. Once a court is added, users can mark individual courts as “In Use”, allowing others to see which courts are currently occupied. This helps players decide where to go before arriving at a location.
 
-Features:
+**Features:**
 
 Register public tennis court facilities near your location
 Mark courts as In Use or Available
@@ -11,14 +11,15 @@ Persistent data: courts and their statuses are saved across app launches
 Simple, intuitive SwiftUI interface
 Expandable framework — adaptable for other types of public spaces
 
-Getting Started:
+**Getting Started:**
 
-Prerequisites:
+**Prerequisites:**
 
 macOS with Xcode installed
 
 iOS Simulator (included in Xcode)
-Steps to Build and Run:
+
+**Steps to Build and Run:**
 
 Clone or download the TCStatus project
 
@@ -28,14 +29,14 @@ Select an iOS Simulator device
 
 Click Run to build and launch the app
 
-Technologies Used:
+**Technologies Used:**
 
 Swift
 SwiftUI
 Xcode
 UserDefaults for local persistence
 
-Future Ideas:
+**Future Ideas:**
 
 Add map-based court search
 User authentication and profiles
