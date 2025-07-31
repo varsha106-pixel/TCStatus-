@@ -13,14 +13,20 @@ Expandable framework — adaptable for other types of public spaces
 
 Getting Started:
 
-Prerequisites
+Prerequisites:
+
 macOS with Xcode installed
+
 iOS Simulator (included in Xcode)
-Steps to Build and Run
+Steps to Build and Run:
+
 Clone or download the TCStatus project
+
 Open the .xcodeproj file in Xcode
+
 Select an iOS Simulator device
-Click Run (▶) to build and launch the app
+
+Click Run to build and launch the app
 
 Technologies Used:
 
